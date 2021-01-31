@@ -1,0 +1,33 @@
+export const personalCategories = [
+  { type: 'Go to supermarket' },
+  { type: 'Car service' },
+  { type: 'Pay the bills' },
+  { type: 'Pay the rent' },
+  { type: 'Go to a gig' },
+  { type: 'Cook' },
+  { type: 'House chores' },
+  { type: 'Watch netflix' },
+  { type: 'Call dimitris' },
+  { type: 'Organize party' },
+  { type: 'Dance with friends' },
+  { type: 'Go on a date' },
+  { type: 'Walk the dog' },
+  { type: 'Feed the cat' },
+];
+
+export const workCategories = [
+  { type: 'Send emails' },
+  { type: 'Meeting' },
+  { type: 'Salary day' },
+  { type: 'Deposits' },
+  { type: 'Day off' },
+  { type: 'Financial analysis' },
+  { type: 'Profit calculation' },
+  { type: 'Wastage calculation' },
+  { type: 'KPI analysis' },
+  { type: 'Update deadlines' },
+  { type: 'Finish tasks' },
+  { type: 'Staff review' },
+  { type: 'Gross profit calculation' },
+  { type: 'Wage cost calculation' },
+];
